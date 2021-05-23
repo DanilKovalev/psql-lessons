@@ -1,5 +1,5 @@
 ## Инфо
-Имя инстанса: psql-lesson3
+Имя инстанса: psql-lesson3  
 project: otus-psql 
 
 ## Дз
