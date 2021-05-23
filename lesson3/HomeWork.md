@@ -1,3 +1,8 @@
+## Инфо
+Имя инстанса: psql-lesson3
+project: otus-psql 
+
+## Дз
 После переноса данных psql не видит их в своей директории  
 `pg_ctl: directory "/var/lib/postgresql/12/main" is not a database cluster directory`
 
